@@ -10,6 +10,12 @@
       "error",
       "LabeledStatement",
       "WithStatement"
+    ],
+    "no-underscore-dangle": [
+      "error",
+      { 
+        "allowAfterThis":true
+      }
     ]
   }
 }
